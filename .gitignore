@@ -1,0 +1,10 @@
+.htaccess
+wp-config-sample.php
+wp-config.php
+wp-content/wflogs/config-synced.php
+htaccess_old
+wp-content/uploads/cache/wpml/twig/29/
+wp-content/uploads/cache/wpml/twig/43/
+yachtvis_2-local.sql
+yachtvis_2-original.sql
+wp-content/themes/yakht-web/functions (1).php
